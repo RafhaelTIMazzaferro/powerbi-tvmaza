@@ -1,2 +1,2 @@
-teste01,https://app.powerbi.com/view?r=eyJrIjoiYzQwMTZkYzktM2M0My00MTQyLWIxOTQtNjUyZGNmM2VkZmJhIiwidCI6IjNjY2NlMDFhLTcwNGUtNGQ4Zi1iNzk1LWYyNzY5YWFiOGZjYyJ9,30
-teste02,https://app.powerbi.com/reportEmbed?reportId=08c053dc-9be6-4cdd-9485-4ce0e3c4232c&autoAuth=true&ctid=3ccce01a-704e-4d8f-b795-f2769aab8fcc,30
+teste01,https://app.powerbi.com/view?r=eyJrIjoiYzQwMTZkYzktM2M0My00MTQyLWIxOTQtNjUyZGNmM2VkZmJhIiwidCI6IjNjY2NlMDFhLTcwNGUtNGQ4Zi1iNzk1LWYyNzY5YWFiOGZjYyJ9,15
+teste02,https://app.powerbi.com/reportEmbed?reportId=08c053dc-9be6-4cdd-9485-4ce0e3c4232c&autoAuth=true&ctid=3ccce01a-704e-4d8f-b795-f2769aab8fcc,15
