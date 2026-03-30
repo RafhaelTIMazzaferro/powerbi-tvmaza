@@ -1,0 +1,7 @@
+pagina01,https://app.powerbi.com/reportEmbed?reportId=0b2a330d-54b5-421f-9e8d-5afb80d60938&autoAuth=true&ctid=3ccce01a-704e-4d8f-b795-f2769aab8fcc,60
+pagina02,https://app.powerbi.com/reportEmbed?reportId=6093f5ab-c549-4397-8ed2-ac10b766c326&autoAuth=true&ctid=3ccce01a-704e-4d8f-b795-f2769aab8fcc,60
+pagina03,https://app.powerbi.com/reportEmbed?reportId=df06523a-0ef6-4d9a-806b-b7ac3594f8ae&autoAuth=true&ctid=3ccce01a-704e-4d8f-b795-f2769aab8fcc,60
+pagina04,https://app.powerbi.com/reportEmbed?reportId=ff4b89de-d546-45ee-a405-41cb6bd9dd87&autoAuth=true&ctid=3ccce01a-704e-4d8f-b795-f2769aab8fcc,60
+pagina05,https://app.powerbi.com/reportEmbed?reportId=14b320e1-6268-4311-9288-99698ee3cc25&autoAuth=true&ctid=3ccce01a-704e-4d8f-b795-f2769aab8fcc,60
+pagina06,https://app.powerbi.com/reportEmbed?reportId=adeb6b12-1af2-4cc2-9f3c-3babd25b50ec&autoAuth=true&ctid=3ccce01a-704e-4d8f-b795-f2769aab8fcc,60
+pagina07,https://app.powerbi.com/reportEmbed?reportId=6a173218-cbb5-449c-82e4-a9c2c0533bf8&autoAuth=true&ctid=3ccce01a-704e-4d8f-b795-f2769aab8fcc,60
